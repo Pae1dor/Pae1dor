@@ -1,51 +1,115 @@
-<h1 align="center">Hey, I'm PÆ (Mac) 👋</h1>
+<p align="center">
+<img src="Thai-Chinese_Red_Gold_Company_Sign.png" width="100%" alt="หจก.ไปให้สุดขีด จำกัด" /></p>
+
+<h3 align="center">Odoo ERP Implementation · App Studio · Crazy Ideas, Shipped.</h3>
 
 <p align="center">
-  <a href="https://github.com/Pae1dor">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Odoo+Developer+%7C+Python+%2F+ORM;ERP+Functional+%2B+Technical;Agentic+AI+Tinkerer+%F0%9F%A4%96;MQL5+Trading+Bot+Builder+%F0%9F%93%88" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1100&color=D4AF37&center=true&vCenter=true&width=700&lines=Need+Odoo%3F+We+implement+it+end-to-end.;Got+a+crazy+idea%3F+We+turn+it+into+an+app.;From+napkin+sketch+to+live+product.;Hire+us.+We+ship." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pae1dor&style=flat-square&color=blueviolet" />
-  <img src="https://img.shields.io/github/followers/Pae1dor?style=flat-square&color=blueviolet" />
-  <img src="https://img.shields.io/badge/Based%20in-Bangkok%2C%20TH-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Odoo-14%20%7C%2017%20%7C%2019-B22222?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Community%20%2B%20Enterprise-D4AF37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍%20Bangkok-Thailand-B22222?style=for-the-badge" />
 </p>
 
 ---
 
-### 🧑‍💻 About me
-- 🏢 In-house **Developer** — ex Odoo Functional Consultant
-- 🧩 Odoo **17 / 14** (and some **19**) — custom modules, ORM, workflows, GAP → Spec → Code
-- 🤖 Building with **Claude Code + agentic AI** tools
-- 📈 Side quest: **MQL5 / MT5** auto-trading (XAUUSD)
-- 🎓 ICT, Sripatum University
+## 🏢 Odoo ERP Implementation — Hire Us
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,postgres,docker,linux,git,github,nextjs,cloudflare,vscode&perline=13" />
-</p>
+We set up Odoo that actually runs your business, not just installs it.
 
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![MQL5](https://img.shields.io/badge/MQL5-1E88E5?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
-### 🚀 Featured Projects
-| Project | What |
+| What you get | Details |
 |---|---|
-| [Field-service](https://github.com/Pae1dor) | Odoo FSM modules & customizations |
-| GoldHunter EA | MQL5 XAUUSD trading bot on MT5 |
-| omc-tracker | Claude Code mod — see what OMC is doing |
+| 🔍 **Requirement & GAP Analysis** | We map your real workflow against Odoo standard, so you know what's config vs custom before you pay |
+| 📐 **Blueprint & Spec** | Clear flow diagrams + dev-ready specs. No guesswork, no surprise costs |
+| 🧩 **Custom Modules** | Python / ORM / QWeb, built for your exact process |
+| 🌐 **Website & E-commerce** | Custom themes, product configurators, online booking, payment gateway integration |
+| 🔗 **API Integration** | Connect Odoo to your marketplaces, payment, and third-party systems |
+| 🚀 **Go-Live & Support** | Master data, UAT, training, go-live — we stay until it works |
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pae1dor&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pae1dor&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pae1dor&theme=tokyonight&hide_border=true" />
+**Industries we've delivered for:** 🏭 Manufacturing · 📦 Inventory & Warehouse · 🚗 Automotive Dealership · 💊 Health & Beauty · 🛒 Retail & Distribution
+
+> Projects from **10 to 100+ users**, multi-company, multi-warehouse.
+
+---
+
+## 🧪 App Studio — Wild Ideas, Real Products
+
+We build the apps nobody else thinks to build. Small team, AI-powered, shipping fast.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💩 Help-Kee
+**Snap your poop. Know your gut.**
+AI reads a single photo and flags gut-health warning signs early. Community board where users and doctors connect.
+
+`TypeScript` `Cloudflare` `Neon Postgres` `DeepSeek AI`
+
+🟢 **Building**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔓 Unlock with Unloh
+**Mobile-first app, heading to Google Play.**
+Built as a PWA, so one codebase covers web and Android.
+
+`FastAPI` `PWA` `Oracle Cloud`
+
+🟡 **Pre-launch**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🦀 OpenClaw
+**AI-guarded gold trading stack.**
+Trading signals → AI sentiment gate → live dashboard → Telegram alerts. AI says *go* or *block*, never gambles.
+
+`Python` `MQL5` `DeepSeek` `Streamlit` `Telegram`
+
+🟢 **Running**
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 GoldHunter EA
+**Automated XAUUSD trader.**
+Scalp + trend + breakout strategies with a built-in news filter.
+
+`MQL5` `MetaTrader 5`
+
+🧪 **Testing**
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ How We Work
+- ⚡ **Fast** — MVP in weeks, not months
+- 💸 **Lean** — serverless & free-tier infra keeps your cost near zero until you have traction
+- 🤖 **AI-powered team** — we build with Claude Code & Codex, so a small team delivers like a big one
+- 🎯 **Business first** — we ask *why* before we write a single line of code
+
+## 🛠️ Our Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,cloudflare,postgres,docker,linux,github&perline=9" />
 </p>
 
-### 📫 Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+---
+
+## 🤝 Work With Us
+**Need Odoo implemented? Got an app idea that sounds crazy?** Let's talk.
+
+<p align="center">
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://line.me/ti/p/your-line-id"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" /></a>
+  <a href="https://facebook.com/your-page"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
