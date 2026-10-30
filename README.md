@@ -1,6 +1,5 @@
 <p align="center">
-<img src="Thai-Chinese_Red_Gold_Company_Sign.png" width="100%" alt="หจก.ไปให้สุดขีด จำกัด" /></p>
-
+<img src="https://github.com/user-attachments/assets/xxxx" width="100%" alt="หจก.ไปให้สุดขีด จำกัด" />
 <h3 align="center">Odoo ERP Implementation · App Studio · Crazy Ideas, Shipped.</h3>
 
 <p align="center">
