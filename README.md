@@ -46,7 +46,6 @@ AI reads a single photo and flags gut-health warning signs early. Community boar
 
 `TypeScript` `Cloudflare` `Neon Postgres` `DeepSeek AI`
 
-🟢 **Building**
 
 </td>
 <td width="50%" valign="top">
@@ -57,7 +56,6 @@ Built as a PWA, so one codebase covers web and Android.
 
 `FastAPI` `PWA` `Oracle Cloud`
 
-🟡 **Pre-launch**
 
 </td>
 </tr>
@@ -70,7 +68,6 @@ Trading signals → AI sentiment gate → live dashboard → Telegram alerts. AI
 
 `Python` `MQL5` `DeepSeek` `Streamlit` `Telegram`
 
-🟢 **Running**
 
 </td>
 <td width="50%" valign="top">
@@ -81,7 +78,6 @@ Scalp + trend + breakout strategies with a built-in news filter.
 
 `MQL5` `MetaTrader 5`
 
-🧪 **Testing**
 
 </td>
 </tr>
