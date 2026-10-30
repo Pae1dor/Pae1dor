@@ -1,6 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/xxxx" width="100%" alt="หจก.ไปให้สุดขีด จำกัด" />
-<h3 align="center">Odoo ERP Implementation · App Studio · Crazy Ideas, Shipped.</h3>
+<img src="Thai-Chinese%20Red%20Gold%20Company%20Sign.png" width="100%" alt="หจก.ไปให้สุดขีด จำกัด" /><h3 align="center">Odoo ERP Implementation · App Studio · Crazy Ideas, Shipped.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1100&color=D4AF37&center=true&vCenter=true&width=700&lines=Need+Odoo%3F+We+implement+it+end-to-end.;Got+a+crazy+idea%3F+We+turn+it+into+an+app.;From+napkin+sketch+to+live+product.;Hire+us.+We+ship." alt="Typing SVG" />
